@@ -1,0 +1,9 @@
+PROJECT CODEBOOK
+
+DATA DICTIONARY
+
+subject		A subject within a group of 30 volunteers
+feature	A feature of measurements. For more explanations, please refer to 'features.txt' and 'features_info.txt'
+mean	An average value of each variable for each activity and each subject
+activity	An activity that each person performs while wearing a smartphone. A list of activity include WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING,
+STANDING, LAYING.
